@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Kleo Login',
+      title: 'Maasss Login',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
@@ -34,7 +34,7 @@ class LoginScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
-                "Welcome to Kleo",
+                "Welcome to Maasss",
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
